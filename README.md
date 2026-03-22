@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ### 📌 Current Study
 
 - **UCB CS61B: Data Structures**
+
 🔗 Course: https://sp24.datastructur.es
 
 💻 Repo: https://github.com/SingularWind979/StudyCS61B
